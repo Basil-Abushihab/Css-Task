@@ -1,0 +1,28 @@
+body{
+    background-color: #E7DCBB;
+border-right: 5px solid black;
+height: 100%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    display: inline-block;
+    background-color: #D0CED5;
+    width: 31%;
+    height: 290px;
+    margin: 10px;
+    font-size: larger;
+    overflow-y: hidden;
+}
+.Scrollable{
+    overflow-y: auto;
+    display: block;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    width: 99%;
+    height: 70px;
+    scrollbar-width: 10px;
+}

@@ -1,0 +1,9 @@
+td{
+box-shadow: 2px 2px grey;
+border: 1px solid black;
+border-radius: 15%;
+height: 20px;
+}
+table{
+    border-spacing: 10px;
+}
